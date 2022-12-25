@@ -1,7 +1,10 @@
+[![MasterHead](https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966)](https://yadhunandanS.io)
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yadhunandan S
 =====================================================================================================================================
 
-LEARN TO CODE GET HIRED
+LEARN TO CODE-GET HIRED
 -----------------------
 
 * 🌍  I'm based in Tumkur
