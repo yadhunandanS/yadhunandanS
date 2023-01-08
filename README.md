@@ -1,9 +1,9 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<!DOCTYPE html img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yadhunandan S
+Hi! My name is Yadhunandan S
 =====================================================================================================================================
 
-LEARN TO CODE-GET HIRED
+Like to learn new things.
 -----------------------
 
 * 🌍  I'm based in Tumkur
